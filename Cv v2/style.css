@@ -1,0 +1,35 @@
+body {
+    font-size: large;
+    font-family: cursive;  }
+.page {
+    border:5px solid lightseagreen;
+    height: 1050px;
+    width: 1050px;
+    background-color: wheat;
+    margin-left: 100px;
+}
+.image {
+    border: 3px solid black;
+        float:right;
+        margin-right: 50px;
+        margin-top: -90px;
+        }
+
+h1 {color: lightseagreen;
+    text-align: center;
+    text-shadow: 2px 2px 4px black;}
+    
+    #change {margin-top: 150px;}
+
+     h2 {
+         text-align: center;
+         color: white;
+        background-color: lightseagreen;}
+
+strong {margin-left: 20px;}
+ 
+ div {text-align: left;
+     border-left: 3px solid lightseagreen;
+     box-shadow: 6px 6px 6px lightseagreen}
+
+ 
